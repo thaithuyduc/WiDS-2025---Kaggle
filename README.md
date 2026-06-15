@@ -58,4 +58,5 @@ The competition leaderboard ranking is based on the official evaluation metric s
 
 This is my final model performance and competition ranking
 
-https://media.licdn.com/dms/image/v2/D4E2DAQEHqU0jGQxI2Q/profile-treasury-image-shrink_1280_1280/B4EZ33b0zyHQAY-/0/1777972761435?e=1782104400&v=beta&t=VUzQjSnBJlZnX3k27oQp-XArmMWt_pJSMSMr_rwrLU4
+<img width="836" height="323" alt="image" src="https://github.com/user-attachments/assets/d843b1b0-538e-4149-94cb-0599a276d68f" />
+
